@@ -24,6 +24,7 @@ This project focuses on classifying pneumonia from chest X-ray images using deep
 pip install kaggle
 Configure your Kaggle API credentials by placing your kaggle.json file in the ~/.kaggle/ directory.
 ## Download the dataset from Kaggle:
+dataset download link : https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray
 kaggle datasets download -d andrewmvd/pediatric-pneumonia-chest-xray
 ## Extract the dataset:
 unzip pediatric-pneumonia-chest-xray.zip
